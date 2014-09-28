@@ -46,7 +46,7 @@ ini_set('display_errors', 1); # Display errors on page (instead of a log file)
        <center><span style= "font-family: Avenir;
     font-size: 35px;">Sharath's XKCD Password Generator &#174;</span></center>
               
-       <form action="p2.php" method="POST">
+       <form action="index.php" method="POST">
           
             Number of <span class="badge">words:</span> <input type="number" name="word_count" min="1" max="10">
            <br><br>
