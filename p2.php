@@ -15,7 +15,7 @@ ini_set('display_errors', 1); # Display errors on page (instead of a log file)
     
        <form action="p2.php" method="POST">
           
-            Number of words: <input type="number" name="word_count" min="1" max="5">
+            Number of words: <input type="number" name="word_count" min="1" max="10">
            <br>
             Include Numbers: <input type='checkbox' name='add_number' id='add_number' > 
            <br>
@@ -26,7 +26,7 @@ ini_set('display_errors', 1); # Display errors on page (instead of a log file)
            
         </form> 
 
-      <?php error_reporting(0); echo $generated_mixed; ?>
+      
 
 
 	
