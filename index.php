@@ -9,7 +9,7 @@ ini_set('display_errors', 1); # Display errors on page (instead of a log file)
     
     <link type="text/css" rel=stylesheet href="bootstrap/css/bootstrap-theme.css"/>
     <link type="text/css" rel=stylesheet href="bootstrap/theme/theme.css"/>
-
+<meta name="viewport" content="width=1030, maximum-scale=1.0"/>
 	<title>Second Project: XKCD Password generator</title>
 	
 		
