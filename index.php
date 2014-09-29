@@ -64,7 +64,35 @@ ini_set('display_errors', 1); # Display errors on page (instead of a log file)
         
       </div>
 
-    
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+     <center> <img src="http://imgs.xkcd.com/comics/password_strength.png" alt="..."></center>
+      
+    </div>
+    <div class="item">
+     <center> <img src="http://losingit.me.uk/wordpress/wp-content/uploads/2011/08/xkcd_-Password-Strength.png" alt=""></center>
+      
+    </div>
+
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
       
 
       
