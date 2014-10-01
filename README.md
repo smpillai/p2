@@ -10,7 +10,7 @@ http://p2.dwa15-practice.me
 
 ## Description
 
-Thw aim of this project was to create a landing page for a XKCD password generator. Some of the functions available in this project is to be able to choose the number of words, whether to add numbers/symbols or not. 
+The aim of this project was to create a landing page for a XKCD password generator. Some of the functions available in this project is to be able to choose the number of words, whether to add numbers/symbols or not. 
 
 ## References
 
