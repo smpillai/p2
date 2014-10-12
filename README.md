@@ -18,4 +18,4 @@ Bootstrap - file included in github
 
 ##Demo
 
-I'd like to conduct the demo in person. 
+Please find the demo here- <ahref="https://docs.google.com/a/g.harvard.edu/file/d/0B9DM-DMQYe4CV1ZrTVQzX2poaXM/edit">Demo</ahref>
