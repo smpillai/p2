@@ -18,4 +18,4 @@ Bootstrap - file included in github
 
 ##Demo
 
-Please find the demo here- https://docs.google.com/a/g.harvard.edu/file/d/0B9DM-DMQYe4CV1ZrTVQzX2poaXM/edit
+Please find the demo here- http://www.screencast.com/t/l3XccJWH
